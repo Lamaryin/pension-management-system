@@ -1,0 +1,9 @@
+# This is a Git Ignore file
+# Ignore compiled class files
+*.class
+# Ignore JAR files
+*.jar
+# Ignore logs
+*.log
+# Ignore temporary files
+*.tmp
